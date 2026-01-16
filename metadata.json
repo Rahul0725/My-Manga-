@@ -1,0 +1,5 @@
+{
+  "name": "MyManga Reader",
+  "description": "A mobile-first, admin-managed manga reading application with offline capabilities and advanced reader features.",
+  "requestFramePermissions": []
+}
